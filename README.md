@@ -25,8 +25,10 @@ Print the transformed features
 ## PROGRAM:
 
 ```
-# NAME: Naveen Kumar.M
-# REG NO: 212221040113
+Program Developed: Naveen Kumar.M
+Register number:212221040113
+```
+```
 
 import numpy as np
 import pandas as pd
