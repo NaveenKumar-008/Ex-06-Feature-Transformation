@@ -37,7 +37,7 @@ import statsmodels.api as sm
 import scipy.stats as stats
 from sklearn.preprocessing import QuantileTransformer
 
-df=pd.read_csv("data_trans.csv")
+df=pd.read_csv("Data_to_Transform.csv")
 df
 
 sm.qqplot(df.HighlyPositiveSkew,fit=True,line='45')
