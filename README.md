@@ -25,11 +25,11 @@ Print the transformed features
 ## PROGRAM:
 
 ```
-Program Developed: Naveen Kumar.M
+Program Developed by: Naveen Kumar.M
 Register number:212221040113
 ```
-```
 
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
